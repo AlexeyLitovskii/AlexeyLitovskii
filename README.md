@@ -1,6 +1,6 @@
 ![Header](https://github.com/AlexeyLitovskii/AlexeyLitovskii/blob/main/assets/name.png)
 
-About me
+Я начинающий тестировщик
 
 Languages and Tools
 
