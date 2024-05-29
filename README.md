@@ -3,16 +3,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Начинающий тестировщик</h2>
 
-Прошёл обучение в Skillbox
+<h3>Прошёл обучение в Skillbox и изучил основные методики тестирования</h3>
 
-Изучил основные методики тестирования
-
+<p>
 В дипломной работе тестировал онлайн <a href="https://intershop4.skillbox.ru" target=blank>магазин</a>, все найденный баги записывал в <a href=https://harrison4.youtrack.cloud/agiles/159-3/current target=blank>YouTrack</a>
-
- 
-
-
-
+</p>
 
 Языки и инструменты
 
@@ -21,12 +16,14 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<img src=https://github.com/AlexeyLitovskii/AlexeyLitovskii/blob/main/assets/icon.svg>YouTrack </img>
-
 
 📫 Как со мной связаться
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+Телефон: 89055424532
+
+Почта: harison196@mail.ru
+
+<!-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
 
 <!-- - 👋 Hi, I’m @AlexeyLitovskii
 - 👀 I’m interested in ...
