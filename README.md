@@ -19,9 +19,9 @@
 
 📫 Как со мной связаться
 
-Телефон: 89055424532
+📞 89055424532
 
-Почта: harison196@mail.ru
+📧 harison196@mail.ru
 
 <!-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) -->
 
